@@ -1,0 +1,15 @@
+[submodule "open-seo"]
+	path = open-seo
+	url = https://github.com/every-app/open-seo.git
+[submodule "VoiceStudio"]
+	path = VoiceStudio
+	url = https://github.com/debpalash/VoiceStudio.git
+[submodule "open-higgsfield"]
+	path = open-higgsfield
+	url = https://github.com/TechBeme/open-higgsfield.git
+[submodule "OpenWhisper"]
+	path = OpenWhisper
+	url = https://github.com/Knuckles92/OpenWhisper.git
+[submodule "AppFlowy"]
+	path = AppFlowy
+	url = https://github.com/AppFlowy-IO/AppFlowy.git
